@@ -1,5 +1,16 @@
 # Change Log
 
+## [v3.0.14](https://github.com/ekscrypto/JBChartView/tree/v3.0.14) (2019-02-10)
+[Full Changelog](https://github.com/ekscrypto/JBChartView/comparer/v3.0.13...v3.0.14)
+
+**Fixed bugs:**
+
+- Screen edge pan gesture with reloadDataAnimated:YES (PR from developforapple)
+
+**Closed issues:**
+
+- Xcode 9 compilation warnings
+
 ## [v3.0.13](https://github.com/Jawbone/JBChartView/tree/v3.0.13) (2017-02-08)
 [Full Changelog](https://github.com/Jawbone/JBChartView/compare/v3.0.12...v3.0.13)
 
